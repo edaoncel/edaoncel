@@ -1,3 +1,7 @@
+## Languages
+- [Türkçe](#türkçe)
+- [English](#english)
+
 Merhaba, ben Eda Öncel. 🎓 Mehmet Akif Ersoy Üniversitesi Yönetim Bilişim Sistemleri bölümünden mezun oldum. Hem front-end hem de back-end alanlarında kendimi sürekli geliştiren, yeniliklere açık ve öğrenmeye hevesli bir yazılımcıyım. Şu an aktif olarak HTML, CSS, PHP, JavaScript ve SQL kullanarak ön yüz projeleri geliştiriyorum. 💻
 
 Yazılım alanında olmanın beni ne kadar mutlu ettiğini ve bu sektördeki tutkumun büyüklüğünü her gün yeniden keşfediyorum. 📚 Öğrenme azmim ve yeni teknolojilere olan merakım sayesinde, kendimi sürekli geliştirmek ve daha iyi olmak için çaba sarf ediyorum. 🚀 İşime olan bağlılığım ve yazılım geliştirme sürecindeki heyecanım, her projeye olan motivasyonumu ve enerjimi yansıtıyor. 🔥
