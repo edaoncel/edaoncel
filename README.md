@@ -1,12 +1,12 @@
 ![Banner](./banner.png)
-Merhaba, ben Eda Öncel. 🎓 Mehmet Akif Ersoy Üniversitesi Yönetim Bilişim Sistemleri bölümünden mezun oldum. Hem front-end hem de back-end alanlarında kendimi sürekli geliştiren, yeniliklere açık ve öğrenmeye hevesli bir yazılımcıyım. Şu an aktif olarak HTML, CSS, PHP, JavaScript ve SQL kullanarak ön yüz projeleri geliştiriyorum. 💻<br><br>Yazılım alanında olmanın beni ne kadar mutlu ettiğini ve bu sektördeki tutkumun büyüklüğünü her gün yeniden keşfediyorum. 📚 Öğrenme azmim ve yeni teknolojilere olan merakım sayesinde, kendimi sürekli geliştirmek ve daha iyi olmak için çaba sarf ediyorum. 🚀 İşime olan bağlılığım ve yazılım geliştirme sürecindeki heyecanım, her projeye olan motivasyonumu ve enerjimi yansıtıyor. 🔥<br><br>Yaratıcı çözümler üretmek ve projelerimi bir üst seviyeye taşımak için çalışmaya devam ediyorum. 🌟 Yazılım dünyasında, bilgi ve becerilerimi genişleterek daha büyük başarılara ulaşmayı hedefliyorum. 🏆
+Merhaba, ben Eda Öncel. Mehmet Akif Ersoy Üniversitesi Yönetim Bilişim Sistemleri bölümünden mezun oldum. Hem front-end hem de back-end alanlarında kendimi sürekli geliştiren, yeniliklere açık ve öğrenmeye hevesli bir yazılımcıyım. Şu an aktif olarak HTML, CSS, PHP, JavaScript ve SQL kullanarak ön yüz projeleri geliştiriyorum. <br><br>Yazılım alanında olmanın beni ne kadar mutlu ettiğini ve bu sektördeki tutkumun büyüklüğünü her gün yeniden keşfediyorum. Öğrenme azmim ve yeni teknolojilere olan merakım sayesinde, kendimi sürekli geliştirmek ve daha iyi olmak için çaba sarf ediyorum. İşime olan bağlılığım ve yazılım geliştirme sürecindeki heyecanım, her projeye olan motivasyonumu ve enerjimi yansıtıyor. <br><br>Yaratıcı çözümler üretmek ve projelerimi bir üst seviyeye taşımak için çalışmaya devam ediyorum. Yazılım dünyasında, bilgi ve becerilerimi genişleterek daha büyük başarılara ulaşmayı hedefliyorum.
 
 
-## 🌐
+##
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eda-%C3%B6ncel-778647254/)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/edaoncel)
 
-# 💻
+#
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -21,10 +21,10 @@ Merhaba, ben Eda Öncel. 🎓 Mehmet Akif Ersoy Üniversitesi Yönetim Bilişim 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edaoncel&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edaoncel&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆
+##
 ![](https://github-profile-trophy.vercel.app/?username=edaoncel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝
+##
 ![](https://github-contributor-stats.vercel.app/api?username=edaoncel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
